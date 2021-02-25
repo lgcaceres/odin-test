@@ -61,7 +61,7 @@
     color: brown;
     display: flex;
     flex-direction: row;
-    align-content:inherit;
+    align-content:inherit;  
    
 }
 
